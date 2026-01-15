@@ -32,7 +32,7 @@ Neste artigo, migramos da teoria para como iniciar a estruturação profissional
 
 [Postman do Básico ao Avançado com Projetos — parte 3](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-parte-3-ea6af702931f?postPublishedType=initial)
 
-   **Nele veremos:**
+   **Veremos:**
    
    - **Pré-request** Script e **Post-response** Script e suas funções.
    - **Criação de variáveis** nestas sessões.
