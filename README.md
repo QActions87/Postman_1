@@ -31,7 +31,8 @@ Neste artigo trago o início da documentação do meu aprendizado no curso “Po
    - Principais tipos de APIs.
    - Relação das APIS com o Postman.
    - Introdução ao Postman e sua estrutura básica.
-
+#
+#
  
  - [Postman do Básico ao Avançado com Projetos — parte 2](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-parte-2-3c85a21c056b) 
 
@@ -41,7 +42,8 @@ Neste artigo, migramos da teoria para como iniciar a estruturação profissional
    - **Reutilização e Segurança (Environments)**: O domínio de Variáveis de Ambiente (Environments) para tornar Collections flexíveis, reutilizáveis e seguras, permitindo a simulação de autenticação e a rápida alternância entre ambientes (Desenvolvimento/Produção).
    - Conheceremos os **3 escopos de Variáveis** e suas **prioridades**.
    - **Integração e Automação**: Demonstração de como realizar o Export de Collections e Environments para fins de automação e integração em **pipelines de CI/CD** (Continuous Integration/Continuous Delivery).
-
+#
+#
 
  - [Postman do Básico ao Avançado com Projetos — parte 3](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-parte-3-ea6af702931f?postPublishedType=initial)
 
@@ -53,7 +55,8 @@ Neste artigo, migramos da teoria para como iniciar a estruturação profissional
    - **Análise de alguns códigos**.
    - Breve **introdução ao framework de teste interno do Postman**, **baseado na** biblioteca de asserções **Chai do JS**.
    - Criação e execução do **1º teste funcional no Postman**.
- 
+ #
+ #
 
  - [Postman do Básico ao Avançado com Projetos — parte 4](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-parte-4-9830b05a5dfa?postPublishedType=initial)
 
@@ -69,10 +72,16 @@ O recurso Runner, que permite executar uma Coleção, uma Pasta ou um grupo de r
 
 Agora que conhecemos a interface Do Postman e as principais features, vamos fazer alguns exercícios. Neste primeiro, validaremos o status code 200 e os parâmetros ‘page’ e ‘per_page’ em um teste funcional de contrato, para validarmos os valores acordados nos parâmetros já citados. Para tanto, usaremos a API pública ‘ReqRes’, que eu penei um pouco até entender que, diferente de quando o professor executou o teste, agora precisava criar uma key para criar uma variável no ‘Headers’.
 
+#
+#
+
  - [Postman do Básico ao Avançado com Projetos — Exercício 2](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-exerc%C3%ADcio-2-cf27f5eb5d85?postPublishedType=initial)
 
 **Veremos:**
 
 Vamos usar a API pública ReqRes e seu Swagger para desenvolver o exercício. Faremos uma busca em um conjunto de informações fictícias de 2 usuários não randômicos, a fim de validarmos se o email que virá na request é o mesmo que esperávamos e uma asserção para o status code 200.
+
+#
+#
 
 Loading...
