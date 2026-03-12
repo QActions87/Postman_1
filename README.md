@@ -4,10 +4,23 @@
 ### Orientação: 
 Este repositório contém a documentação dos meus estudos em **testes de APIs com Postman** e projeto.
 #
+## Introdução as APIs & Arquitetura REST
+ - [Introdução as APIs & Arquitetura REST](https://medium.com/@atom.freedom/introdu%C3%A7%C3%A3o-as-apis-arquitetura-rest-33c83159ba6f)
+
+Neste artigo veremos:
+
+ - Definição de 𝐀𝐏𝐈.
+ - Introdução à 𝐀𝐫𝐪𝐮𝐢𝐭𝐞𝐭𝐮𝐫𝐚 𝐑𝐄𝐒𝐓:
+ - 𝐂𝐥𝐢𝐞𝐧𝐭𝐞-𝐒𝐞𝐫𝐯𝐢𝐝𝐨𝐫.
+ - 𝐒𝐭𝐚𝐭𝐞𝐥𝐞𝐬𝐬.
+ - Métodos 𝐇𝐓𝐓𝐏.
+ - 𝐒𝐭𝐚𝐭𝐮𝐬 𝐂𝐨𝐝𝐞.
+ - 𝐀𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐯𝐬. 𝐀𝐮𝐭𝐡𝐨𝐫𝐢𝐳𝐚𝐭𝐢𝐨𝐧.
+ - 𝐎 𝐪𝐮𝐞 𝐭𝐞𝐬𝐭𝐚𝐫 em APIs.
 #
 ## 📚 Artigos onde documentei o que fiz:
 
-[Postman do Básico ao Avançado com Projetos — parte 1](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-parte-1-75e937d37998?postPublishedType=initial)
+ - [Postman do Básico ao Avançado com Projetos — parte 1](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-parte-1-75e937d37998?postPublishedType=initial)
 
 Neste artigo trago o início da documentação do meu aprendizado no curso “Postman do Básico ao Avançado com Projetos”, do prof.: Gustavo Eduardo Silva Machado.
 
@@ -20,7 +33,7 @@ Neste artigo trago o início da documentação do meu aprendizado no curso “Po
    - Introdução ao Postman e sua estrutura básica.
 
  
-[Postman do Básico ao Avançado com Projetos — parte 2](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-parte-2-3c85a21c056b) 
+ - [Postman do Básico ao Avançado com Projetos — parte 2](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-parte-2-3c85a21c056b) 
 
 Neste artigo, migramos da teoria para como iniciar a estruturação profissional de testes. Abordo melhores práticas, essenciais no dia a dia do QA moderno, como:
 
@@ -30,7 +43,7 @@ Neste artigo, migramos da teoria para como iniciar a estruturação profissional
    - **Integração e Automação**: Demonstração de como realizar o Export de Collections e Environments para fins de automação e integração em **pipelines de CI/CD** (Continuous Integration/Continuous Delivery).
 
 
-[Postman do Básico ao Avançado com Projetos — parte 3](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-parte-3-ea6af702931f?postPublishedType=initial)
+ - [Postman do Básico ao Avançado com Projetos — parte 3](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-parte-3-ea6af702931f?postPublishedType=initial)
 
    **Veremos:**
    
@@ -42,7 +55,7 @@ Neste artigo, migramos da teoria para como iniciar a estruturação profissional
    - Criação e execução do **1º teste funcional no Postman**.
  
 
-[Postman do Básico ao Avançado com Projetos — parte 4](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-parte-4-9830b05a5dfa?postPublishedType=initial)
+ - [Postman do Básico ao Avançado com Projetos — parte 4](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-parte-4-9830b05a5dfa?postPublishedType=initial)
 
 **Veremos:**
 
@@ -50,13 +63,13 @@ O recurso Runner, que permite executar uma Coleção, uma Pasta ou um grupo de r
 #
 #
 ## Exercícios📝
-[Postman do Básico ao Avançado com Projetos — Exercício 1](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-exerc%C3%ADcio-1-e880bb2739bc?postPublishedType=initial)
+ - [Postman do Básico ao Avançado com Projetos — Exercício 1](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-exerc%C3%ADcio-1-e880bb2739bc?postPublishedType=initial)
 
 **Veremos:**
 
 Agora que conhecemos a interface Do Postman e as principais features, vamos fazer alguns exercícios. Neste primeiro, validaremos o status code 200 e os parâmetros ‘page’ e ‘per_page’ em um teste funcional de contrato, para validarmos os valores acordados nos parâmetros já citados. Para tanto, usaremos a API pública ‘ReqRes’, que eu penei um pouco até entender que, diferente de quando o professor executou o teste, agora precisava criar uma key para criar uma variável no ‘Headers’.
 
-[Postman do Básico ao Avançado com Projetos — Exercício 2](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-exerc%C3%ADcio-2-cf27f5eb5d85?postPublishedType=initial)
+ - [Postman do Básico ao Avançado com Projetos — Exercício 2](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-exerc%C3%ADcio-2-cf27f5eb5d85?postPublishedType=initial)
 
 **Veremos:**
 
