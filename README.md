@@ -18,6 +18,10 @@ Neste artigo veremos:
  - 𝐀𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐯𝐬. 𝐀𝐮𝐭𝐡𝐨𝐫𝐢𝐳𝐚𝐭𝐢𝐨𝐧.
  - 𝐎 𝐪𝐮𝐞 𝐭𝐞𝐬𝐭𝐚𝐫 em APIs.
 #
+## Os 6 Pilares da Arquitetura REST
+ - [**Arquitetura REST**](https://medium.com/@atom.freedom/os-6-pilares-da-arquitetura-rest-ceb0fff9f730)
+
+#
 ## 📚 Artigos onde documentei o que fiz:
 
  - [Postman do Básico ao Avançado com Projetos — parte 1](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-parte-1-75e937d37998?postPublishedType=initial)
