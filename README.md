@@ -20,7 +20,9 @@ Neste artigo veremos:
 #
 ## Os 6 Pilares da Arquitetura REST
  - [**Arquitetura REST**](https://medium.com/@atom.freedom/os-6-pilares-da-arquitetura-rest-ceb0fff9f730)
-
+#
+## URI, URL e URN
+ - [**URI, URL e URN**](https://medium.com/@atom.freedom/uri-url-e-urn-d6ccd542efc0)
 #
 ## 📚 Artigos onde documentei o que fiz:
 
