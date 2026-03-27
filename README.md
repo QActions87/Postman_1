@@ -17,12 +17,15 @@ Neste artigo veremos:
  - 𝐒𝐭𝐚𝐭𝐮𝐬 𝐂𝐨𝐝𝐞.
  - 𝐀𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐯𝐬. 𝐀𝐮𝐭𝐡𝐨𝐫𝐢𝐳𝐚𝐭𝐢𝐨𝐧.
  - 𝐎 𝐪𝐮𝐞 𝐭𝐞𝐬𝐭𝐚𝐫 em APIs.
+
 #
 ## Os 6 Pilares da Arquitetura REST
  - [**Arquitetura REST**](https://medium.com/@atom.freedom/os-6-pilares-da-arquitetura-rest-ceb0fff9f730)
+
 #
 ## URI, URL e URN
  - [**URI, URL e URN**](https://medium.com/@atom.freedom/uri-url-e-urn-d6ccd542efc0)
+#
 #
 ## 📚 Artigos onde documentei o que fiz:
 
