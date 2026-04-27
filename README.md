@@ -29,7 +29,7 @@ Neste artigo veremos:
 #
 ## 📚 Artigos onde documentei o que fiz:
 
- - [Postman do Básico ao Avançado com Projetos — parte 1](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-parte-1-75e937d37998?postPublishedType=initial)
+ - [Postman do Básico ao Avançado com Projetos — parte 1](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-parte-1-75e937d37998?postPublishedType=repub)
 
 Neste artigo trago o início da documentação do meu aprendizado no curso “Postman do Básico ao Avançado com Projetos”, do prof.: Gustavo Eduardo Silva Machado.
 
@@ -54,7 +54,7 @@ Neste artigo, migramos da teoria para como iniciar a estruturação profissional
 #
 #
 
- - [Postman do Básico ao Avançado com Projetos — parte 3](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-parte-3-ea6af702931f?postPublishedType=initial)
+ - [Postman do Básico ao Avançado com Projetos — parte 3](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-parte-3-ea6af702931f?postPublishedType=repub)
 
    **Veremos:**
    
@@ -67,7 +67,7 @@ Neste artigo, migramos da teoria para como iniciar a estruturação profissional
  #
  #
 
- - [Postman do Básico ao Avançado com Projetos — parte 4](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-parte-4-9830b05a5dfa?postPublishedType=initial)
+ - [Postman do Básico ao Avançado com Projetos — parte 4](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-parte-4-9830b05a5dfa?postPublishedType=repub)
 
 **Veremos:**
 
@@ -75,7 +75,7 @@ O recurso Runner, que permite executar uma Coleção, uma Pasta ou um grupo de r
 #
 #
 ## Exercícios📝
- - [Postman do Básico ao Avançado com Projetos — Exercício 1](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-exerc%C3%ADcio-1-e880bb2739bc?postPublishedType=initial)
+ - [Postman do Básico ao Avançado com Projetos — Exercício 1](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-exerc%C3%ADcio-1-e880bb2739bc?postPublishedType=repub)
 
 **Veremos:**
 
@@ -84,7 +84,7 @@ Agora que conhecemos a interface Do Postman e as principais features, vamos faze
 #
 #
 
- - [Postman do Básico ao Avançado com Projetos — Exercício 2](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-exerc%C3%ADcio-2-cf27f5eb5d85?postPublishedType=initial)
+ - [Postman do Básico ao Avançado com Projetos — Exercício 2](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-exerc%C3%ADcio-2-cf27f5eb5d85?postPublishedType=repub)
 
 **Veremos:**
 
